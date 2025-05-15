@@ -1,60 +1,84 @@
-Hi there, I'm Angela Gathoni 👋
-Welcome to my GitHub!
-I'm a passionate Software Engineer who loves creating innovative, user-centered solutions. This portfolio showcases some of my favorite projects, skills, and what I'm currently working on.
+# 👋 Hey there, I’m Angela Gathoni
 
-🚀 About Me
-I'm a Full Stack Developer with hands-on experience in building robust web applications using modern technologies. I thrive on solving complex problems, constantly learning, and collaborating on impactful software.
+Welcome to my corner of GitHub!  
+I'm a passionate **Software Engineer** who thrives on building innovative, user-focused solutions.  
+This space is a curated portfolio of some of my favorite projects, my tech journey, and what I’m currently building.
 
-🔭 Currently working on: A smart budgeting web app for young professionals
+---
 
-🌱 Currently learning: TypeScript & AWS Lambda
+## 🚀 About Me
+💡 I'm a **Full Stack Developer** with hands-on experience crafting robust web applications using modern technologies.  
+🔍 I love solving real-world problems, diving deep into code, and building software that makes a difference.
 
-🤝 Open to collaborate on: Open-source, fintech, or education tech projects
+---
 
-📫 Reach me at: angelagathoni9568@gmail.com
+## 🔭 What I’m Working On
+🛠️ **SmartBudget** — a sleek, responsive budgeting app designed to empower young professionals to manage their finances smarter.
 
-🛠️ Tech Stack
-Languages: Python · JavaScript · Java · C++
+---
 
-Frameworks & Libraries: React · Node.js · Django · Flask
+## 🌱 Currently Exploring
+- **TypeScript** – leveling up my JS game
+- **AWS Lambda** – diving into serverless architectures
 
-Tools & Platforms: Git · Docker · AWS · MongoDB · PostgreSQL
+---
 
-🌟 Featured Projects
-📌 Project 1: SmartBudget Tracker
-Description:
-A responsive budgeting web app that helps users categorize expenses, visualize spending trends, and get smart financial tips.
+## 🤝 Let’s Collaborate
+I'm open to teaming up on:
+- Open-source contributions
+- Fintech innovations
+- EdTech tools that empower learners
 
-Tech Used: React, Node.js, MongoDB, Chart.js
+---
 
-Links:
-🔗 Repository · 🌐 Live Demo
+## 📫 Reach Out
+📧 **Email:** angelagathoni9568@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 
-Screenshot:
+---
 
-📌 Project 2: HealthConnect API
-Description:
-A RESTful API for connecting patients and healthcare providers. Built with a secure backend and intuitive endpoints.
+## 🛠️ Tech Stack
 
-Tech Used: Python, Flask, PostgreSQL
+**Languages:**  
+`Python` · `JavaScript` · `Java` · `C++`
 
-Links:
-🔗 Repository · 🌐 Live Demo
+**Frameworks & Libraries:**  
+`React` · `Node.js` · `Django` · `Flask`
 
-Screenshot:
+**Tools & Platforms:**  
+`Git` · `Docker` · `AWS` · `MongoDB` · `PostgreSQL`
 
-<!-- Add more projects in similar format -->
-✍️ Blog & Articles
-I occasionally share insights, tutorials, and stories from my coding journey.
-📖 Read my latest posts on Medium or my blog
+---
 
-🤝 Let’s Connect
-I'm always happy to chat about tech, collaborate, or just connect with fellow developers.
+## 🌟 Featured Projects
 
-📧 Email: angelagathoni9568@gmail.com
+### 📌 SmartBudget Tracker
+💬 *A responsive budgeting web app that helps users categorize expenses, visualize spending trends, and get smart financial tips.*
 
-💼 LinkedIn: linkedin.com/in/yourprofile
+**Tech:** React · Node.js · MongoDB · Chart.js  
+🔗 [Repository](#) · 🌐 [Live Demo](#)
 
-🐦 Twitter: @yourhandle
+<!-- Add screenshot here -->
 
-Thanks for visiting my GitHub. Let's build something great! 💻🚀
+---
+
+### 📌 HealthConnect API
+💬 *A RESTful API for connecting patients and healthcare providers with a focus on simplicity and security.*
+
+**Tech:** Python · Flask · PostgreSQL  
+🔗 [Repository](#) · 🌐 [Live Demo](#)
+
+<!-- Add screenshot here -->
+
+---
+
+## ✍️ Writing & Blogs
+I share insights, tutorials, and stories from my software journey.  
+📖 Check out my [Medium](#) or [personal blog](#) for the latest posts.
+
+---
+
+## 🤝 Let’s Connect
+Always happy to chat tech, brainstorm ideas, or build cool things together.  
+Thanks for stopping by — **let’s build something great!** 🚀💻
